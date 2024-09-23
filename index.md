@@ -3,5 +3,12 @@
 ## This is an <h2> header
 ###### This is an <h6> header, which is the smallest
 
+```
+$ git init
+Initialized empty git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+``` javascript
+var myVar = "Hello, world!";
+````
 
 Made a couple of headers in this commit.
